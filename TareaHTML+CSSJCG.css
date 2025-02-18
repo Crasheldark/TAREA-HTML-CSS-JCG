@@ -1,0 +1,75 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Encabezados */
+h1 {
+    color: teal;
+}
+
+h2 {
+    color: blue;
+}
+
+/* Párrafos y énfasis */
+p {
+    color: black;
+}
+
+body p strong {
+    color: red;
+}
+
+.destacado {
+    color: orange;
+}
+
+.especial {
+    color: orange;
+}
+
+/* Enlaces */
+a {
+    color: green;
+}
+
+/* Tabla */
+table {
+    width: 60%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+th {
+    color: red;
+}
+
+tfoot th {
+    color: red;
+}
+
+div#adicional p {
+    color: olive;
+}
+
+#adicional span#especial {
+    color: fuchsia;
+}
+
+tbody tr td strong {
+    color: orange;
+}
+
+tbody tr td {
+    color: green;
+}
+
+caption {
+    color: blue;
+}
